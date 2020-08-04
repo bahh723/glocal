@@ -10,4 +10,4 @@
    
     Independent: Simulator.MODE_INDEP
    
-3.  Fot technical reasons, a tmp/ folder is created in the training time. 
+3.  Fo technical reasons, a tmp/ folder is created in the training time. 
