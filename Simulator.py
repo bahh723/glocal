@@ -21,7 +21,7 @@ class Simulator:
         self.f_worker_list = []
         self.n_class = n_class
 
-    def run_simulation_classification(self, is_training=True, output_every=100):
+    def run_simulation_classification(self, is_training=True, output_every=10):
         n_class = self.n_class 
         if is_training:
             for n in range(n_class): 
